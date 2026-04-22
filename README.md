@@ -4,7 +4,7 @@
 Cybersecurity Student | Blue Team | GRC (ISO 27001)
 
 ---
-<img src="https://raw.githubusercontent.com/oratilwe-masango/oratilwe-masango/main/banner.png" width="100%" />
+
 ## About Me
 
 I am a cybersecurity student specialising in Security & Network Engineering with a focus on **threat detection, risk analysis, and enterprise security**.
