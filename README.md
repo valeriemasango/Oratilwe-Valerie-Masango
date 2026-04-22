@@ -3,67 +3,103 @@
 <img src="https://raw.githubusercontent.com/OratilweValerieMasango/OratilweValerieMasango/main/banner.png" width="100%" />
 
 <br>
-Cybersecurity Student | Blue Team | GRC (ISO 27001)
+<img src="https://raw.githubusercontent.com/OratilweValerieMasango/OratilweValerieMasango/main/banner.png" width="100%" />
+
+<br>
+
+# 👩🏽‍💻 Oratilwe Valerie Masango
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![Role](https://img.shields.io/badge/Track-Blue%20Team-purple)
+![GRC](https://img.shields.io/badge/GRC-ISO%2027001-green)
+🛡️ Cybersecurity | Blue Team | GRC (ISO 27001)
 
 ---
 
-## About Me
+## 🔍 About Me
 
-I am a cybersecurity student specialising in Security & Network Engineering with a focus on **threat detection, risk analysis, and enterprise security**.
-I build hands-on labs simulating real-world cyber attacks and defensive strategies using tools like Kali Linux, Wireshark, and GNS3.
+I am a cybersecurity student specialising in **Security & Network Engineering**, with a focus on:
 
----
+🔎 Threat Detection & Analysis
+📊 Risk Assessment & Mitigation
+🛡️ Security Operations (SOC)
+📑 Governance, Risk & Compliance (ISO 27001)
 
-## Tools & Technologies
-
-* Nmap | Wireshark | Kali Linux
-* Metasploit | GNS3
-* Windows Server | Linux
+I build hands-on labs that simulate real-world cyber threats and defensive strategies.
 
 ---
 
-## Featured Projects
+## 🎯 Career Direction
 
-###  Blue Team Security Labs
+### 🔐 Cybersecurity (Non-Coding)
+
+* SOC Analyst
+* Cybersecurity Analyst
+* Threat Intelligence Analyst
+* Vulnerability Analyst
+
+### 🛡️ GRC (Governance, Risk & Compliance)
+
+* GRC Analyst
+* IT Risk Analyst
+* Information Security Analyst
+* Compliance Analyst (ISO 27001 / NIST)
+
+
+---
+
+## ⚡ What I Focus On
+
+* Network Monitoring & Incident Analysis
+* Vulnerability Identification
+* Risk-Based Security Decisions
+* Security Frameworks (ISO 27001, NIST)
+
+---
+
+## 🧰 Tools & Technologies
+
+`Nmap` `Wireshark` `Kali Linux` `Metasploit` `GNS3`
+`Windows Server` `Linux`
+
+---
+
+## 📂 Featured Work
+
+### 🔵 Blue Team Security Labs
 
 Simulated threat detection and network monitoring using real-world attack scenarios.
 
-###  Enterprise Penetration Testing
+### 🔴 Enterprise Penetration Testing
 
-Full penetration testing lifecycle with reporting and remediation.
+Identified vulnerabilities and produced structured remediation reports.
 
-### Secure Network Architecture Lab
+### 🏢 Secure Network Architecture Lab
 
-Enterprise network design with Active Directory, GPOs, and routing.
+Built enterprise environments using Active Directory and secure configurations.
 
-### Cyber Risk Analysis (ISO 27001)
+### 📊 Cyber Risk Analysis (ISO 27001)
 
-Risk-based assessment with control mapping and mitigation strategies.
-
----
-
-## Career Focus
-Cybersecurity
-SOC Analyst (Security Operations Center)
-Cybersecurity Analyst
-Threat Intelligence Analyst
-Vulnerability Analyst
-
-GRC (Governance, Risk & Compliance)
-GRC Analyst
-IT Risk Analyst
-Information Security Analyst
-Compliance Analyst (ISO 27001 / NIST)
-
-Focus Areas
-Threat Detection & Analysis
-Security Monitoring & Incident Investigation
-Risk Assessment & Mitigation
-Security Frameworks (ISO 27001, NIST)
+Conducted risk assessments and mapped controls to industry standards.
 
 ---
 
-## Contact
+## 🚫 Specialisation
+
+I focus on cybersecurity roles that prioritise:
+
+* Analysis over coding
+* Risk management over development
+* Real-world security operations
+
+---
+
+## 🧠 Philosophy
+
+> “Cybersecurity isn’t just technology — it’s risk, trust, and resilience.”
+
+---
+
+## 📍Location
 
 Gauteng, South Africa
 GitHub: (https://github.com/OratilweValerieMasango)
