@@ -3,15 +3,14 @@
 <img src="https://raw.githubusercontent.com/OratilweValerieMasango/OratilweValerieMasango/main/banner.png" width="100%" />
 
 <br>
-<img src="https://raw.githubusercontent.com/OratilweValerieMasango/OratilweValerieMasango/main/banner.png" width="100%" />
-
-<br>
 
 # 👩🏽‍💻 Oratilwe Valerie Masango
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![Role](https://img.shields.io/badge/Track-Blue%20Team-purple)
 ![GRC](https://img.shields.io/badge/GRC-ISO%2027001-green)
+
 🛡️ Cybersecurity | Blue Team | GRC (ISO 27001)
+
+Focused on protecting systems, managing risk, and enabling trust.
 
 ---
 
@@ -20,8 +19,11 @@
 I am a cybersecurity student specialising in **Security & Network Engineering**, with a focus on:
 
 🔎 Threat Detection & Analysis
+
 📊 Risk Assessment & Mitigation
+
 🛡️ Security Operations (SOC)
+
 📑 Governance, Risk & Compliance (ISO 27001)
 
 I build hands-on labs that simulate real-world cyber threats and defensive strategies.
