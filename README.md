@@ -68,7 +68,7 @@ I build hands-on labs that simulate real-world cyber threats and defensive strat
 ## 🧪 Practical Experience 
 
 ### 🔵 Threat Detection & Network Analysis (Blue Team Labs)
-
+🔵 [Cyber Defense Lab](https://github.com/OratilweValerieMasango/cyber-defense-lab)
 * Performed network reconnaissance using `Nmap` to identify active hosts and exposed services
 * Captured and analysed network traffic using `Wireshark` to understand TCP/IP behaviour
 * Identified suspicious patterns and potential vulnerabilities within simulated environments
@@ -79,7 +79,7 @@ I build hands-on labs that simulate real-world cyber threats and defensive strat
 ---
 
 ### 🔴 Vulnerability Assessment & Penetration Testing
-
+🔴 [Penetration Testing Report](https://github.com/OratilweValerieMasango/penetration-testing-report) 
 * Conducted vulnerability assessments using `Nmap` and `Metasploit`
 * Identified critical and high-risk vulnerabilities in a simulated enterprise environment
 * Analysed system weaknesses and potential attack vectors
@@ -90,7 +90,7 @@ I build hands-on labs that simulate real-world cyber threats and defensive strat
 ---
 
 ### 🏢 Secure Network Architecture (GNS3 Lab)
-
+🏢 [Enterprise Network Lab](https://github.com/OratilweValerieMasango/enterprise-network-lab) 
 * Designed and configured a virtual enterprise network using `GNS3`
 * Implemented `Active Directory`, domain structures, and access controls
 * Applied security configurations including firewall rules and user policies
@@ -101,7 +101,7 @@ I build hands-on labs that simulate real-world cyber threats and defensive strat
 ---
 
 ### 📊 Cyber Risk Analysis & GRC (ISO 27001)
-
+📊 [GRC Risk Assessment](https://github.com/OratilweValerieMasango/grc-risk-assessment)  
 * Conducted a risk-based security assessment aligned with ISO 27001
 * Identified critical risks such as exposed RDP, FTP vulnerabilities, and RPC services
 * Evaluated risks based on likelihood and impact
