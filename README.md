@@ -16,7 +16,7 @@ Focused on protecting systems, managing risk, and enabling trust.
 
 ## 🔍 About Me
 
-I focus on cybersecurity analysis, threat detection, and risk management within simulated enterprise environments.
+I approach cybersecurity from both a technical and risk-based perspective, focusing on identifying threats, analysing vulnerabilities, and improving security posture within enterprise environments.
 
 🔎 Threat Detection & Analysis
 
